@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka yangshiyu.png
+map_Kd yangshiyu.png
+map_Ks yangshiyu.png
+disp /work/yangshiyu_normals.png
