@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka chen_hao.png
+map_Kd chen_hao.png
+map_Ks chen_hao.png
+disp chen_hao_normals.png

@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka yichao.png
+map_Kd yichao.png
+map_Ks yichao.png
+disp /work/yichao_normals.png

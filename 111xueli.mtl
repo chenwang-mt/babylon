@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka 111xueli.png
+map_Kd 111xueli.png
+map_Ks 111xueli.png
+disp /work/111xueli_normals.png
